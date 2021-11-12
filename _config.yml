@@ -1,0 +1,39 @@
+# Site settings
+title: Will D. Cat
+description: Student at Villanova University. Please check out my work!
+url: 'https://github.com/velthuis/uno-timeline-villanova/raw/main/_data/CV.pdf' # this is the link behind the CV button
+/baseurl: '' # leave empty unless you use a domain name other than GitHub
+profilepic: '/images/profile.png'
+bkimage: '/images/beech.jpg' # Licensed from https://www.flickr.com/people/vudigitallibrary/
+google_analytics: G-XXXXXXXXXX # requires a free account 
+font_awesome: 'XXXXXXXXXX.js' # set up a free account at fontawesome.com to get your kit ID
+
+author:
+  name: 'Will D. Cat'
+  email: will.d.cat@villanova.edu
+  twitter_username: WillDCatVU
+  github_username: VillanovaUniversity
+  # linkedin_username: 
+  # ssrn_id: 
+  # scopus_id:
+  # orcid_id: 
+  # gscholar_username:
+
+# Build settings
+destination: _site
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+#plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
+
