@@ -1,5 +1,5 @@
 # Site settings
-title: Will D. Cat
+title: Giavanna Walker
 description: Student at Villanova University. Please check out my work!
 url: 'https://github.com/velthuis/uno-timeline-villanova/raw/main/_data/CV.pdf' # this is the link behind the CV button
 /baseurl: '' # leave empty unless you use a domain name other than GitHub
@@ -9,10 +9,10 @@ google_analytics: G-XXXXXXXXXX # requires a free account
 font_awesome: 'XXXXXXXXXX.js' # set up a free account at fontawesome.com to get your kit ID
 
 author:
-  name: 'Will D. Cat'
-  email: will.d.cat@villanova.edu
-  twitter_username: WillDCatVU
-  github_username: VillanovaUniversity
+  name: 'Giavanna Walker'
+  email: gwalker6@villanova.edu
+  Instagram_username: gia.w_
+  github_username: walkerGiavanna
   # linkedin_username: 
   # ssrn_id: 
   # scopus_id:
